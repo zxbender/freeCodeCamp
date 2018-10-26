@@ -16,3 +16,6 @@ Can you tell who is operating in each territory?
 <details><summary>Solution</summary><blockquote>
 
 Mr. North is operating the South, Mr. East is operating the West, Mr. South is operating the East, and Mr. West is operating the North.</blockquote></details>
+
+
+*Riddle text obtained from [Braingle](https://www.braingle.com/brainteasers/21336/the-protection-racket.html)*
